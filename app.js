@@ -1,6 +1,6 @@
 pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 
-const PDF_URL = 'MMX-PORTFOLIO.pdf';
+const PDF_URL = '24 Mar-31 Mar-26.pdf';
 let pdfDoc = null;
 let currentPage = 1;
 
